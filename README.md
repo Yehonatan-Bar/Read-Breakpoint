@@ -16,7 +16,7 @@ A simple web app to format text for better readability by handling newlines and 
 
 2.  **Run:**
     ```bash
-    python app.py
+    python ebug_output_viewer.py
     ```
     Then open `http://127.0.0.1:5000`.
 
