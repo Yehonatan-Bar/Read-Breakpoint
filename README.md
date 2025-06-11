@@ -31,4 +31,4 @@ Paste text into the text area. The formatted text will appear automatically. Use
 >
 > מקווה שהכלי שימושי! בימים אלה אני מחפש את האתגר הבא שלי בתחום הבינה המלאכותית.
 > 
-> אשמח להתחבר בלינקדאין: **[Yehonatan (John) Bar](https://www.linkedin.com/in/john-bar-42722921/)**
+> אשמח להתחבר בלינקדאין: **[Yoni Bar](https://www.linkedin.com/in/john-bar-42722921/)**
