@@ -23,3 +23,5 @@ A simple web app to format text for better readability by handling newlines and 
 ## Usage
 
 Paste text into the text area. The formatted text will appear automatically. Use the copy buttons for either rich or plain text. 
+מקווה שהכלי שימושי! בימים אלה אני מחפש את האתגר הבא שלי בתחום הבינה המלאכותית. אשמח להתחבר בלינקדאין.
+https://www.linkedin.com/in/john-bar-42722921/
